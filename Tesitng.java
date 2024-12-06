@@ -1,5 +1,5 @@
 public class Tesitng {
-ewaeaweaw
-        ewaeawewaeawwdadawda
-    yesyesyes
+    public static void main(String[] args) {
+        System.out.println("Testing for learning");
+    }
 }
